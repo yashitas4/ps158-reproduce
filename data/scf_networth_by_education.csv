@@ -1,0 +1,157 @@
+year,families,group,median_networth,mean_networth,share_of_families,n_records
+1989,All families,No high school diploma,61010.5479,209946.7990,0.2426,3086
+1989,All families,High school diploma,92600.7903,284104.3006,0.3214,4184
+1989,All families,High school or less,77966.3330,252205.0917,0.5639,7270
+1989,All families,Some college,117731.6860,466328.1913,0.2037,2828
+1989,All families,College degree,321024.4837,1035440.4432,0.2324,5617
+1989,All families,All families,118740.9589,477809.7925,1.0000,15715
+1989,With children,No high school diploma,38730.8483,164464.1904,0.2171,1253
+1989,With children,High school diploma,82457.5975,243507.0551,0.3409,2063
+1989,With children,High school or less,56468.8198,212751.8548,0.5580,3316
+1989,With children,Some college,150381.6649,399805.4384,0.2134,1376
+1989,With children,College degree,330789.1992,992302.4807,0.2286,2693
+1989,With children,All families,121112.7503,430864.4241,1.0000,7385
+1992,All families,No high school diploma,42402.6042,158915.6841,0.2034,2924
+1992,All families,High school diploma,87072.7273,253404.1364,0.3002,4743
+1992,All families,High school or less,68479.0720,215233.2704,0.5036,7667
+1992,All families,Some college,130382.3390,382093.1340,0.2213,3911
+1992,All families,College degree,249200.3314,840536.9344,0.2751,7952
+1992,All families,All families,112695.6913,424183.3464,1.0000,19530
+1992,With children,No high school diploma,21201.3021,106607.9191,0.1693,1088
+1992,With children,High school diploma,58388.6127,185344.6999,0.3152,2144
+1992,With children,High school or less,45305.0284,157832.5604,0.4845,3232
+1992,With children,Some college,129702.0833,308627.9335,0.2354,1661
+1992,With children,College degree,283439.8674,825953.0594,0.2801,3572
+1992,With children,All families,101380.7718,380488.9713,1.0000,8465
+1995,All families,No high school diploma,48716.0548,177640.1153,0.1852,2759
+1995,All families,High school diploma,109568.7616,282287.3912,0.3173,5710
+1995,All families,High school or less,90866.0327,243716.4985,0.5026,8469
+1995,All families,Some college,106433.9894,386805.4595,0.2482,4890
+1995,All families,College degree,256161.7249,934589.1276,0.2492,8136
+1995,All families,All families,122425.5639,451412.7447,1.0000,21495
+1995,With children,No high school diploma,24040.3140,87626.3892,0.1601,1086
+1995,With children,High school diploma,91522.6404,210438.4470,0.3435,2684
+1995,With children,High school or less,61424.5909,171394.0143,0.5036,3770
+1995,With children,Some college,106645.7983,288814.5595,0.2633,2104
+1995,With children,College degree,256627.7046,915790.1312,0.2331,3321
+1995,With children,All families,106073.9142,375854.5905,1.0000,9195
+1998,All families,No high school diploma,41903.7500,157416.1211,0.1646,2652
+1998,All families,High school diploma,108051.8125,314746.2035,0.3187,5599
+1998,All families,High school or less,81013.9167,261150.4752,0.4833,8251
+1998,All families,Some college,151950.9792,449231.8498,0.2493,4815
+1998,All families,College degree,343810.2917,1225730.0333,0.2674,8459
+1998,All families,All families,143071.3750,565980.3783,1.0000,21525
+1998,With children,No high school diploma,18956.4583,116975.7290,0.1528,1152
+1998,With children,High school diploma,77761.3875,250003.7087,0.3414,2588
+1998,With children,High school or less,56151.0250,208878.3474,0.4942,3740
+1998,With children,Some college,141953.9417,407602.8283,0.2546,2082
+1998,With children,College degree,364163.5417,1164201.4122,0.2512,3503
+1998,With children,All families,124713.5417,499464.9825,1.0000,9325
+2001,All families,No high school diploma,46552.5976,193042.0787,0.1600,2701
+2001,All families,High school diploma,106261.2047,331992.8094,0.3173,5667
+2001,All families,High school or less,81984.6021,285405.2594,0.4773,8368
+2001,All families,Some college,151969.2234,501359.8564,0.2388,4625
+2001,All families,College degree,444658.8332,1664053.0915,0.2839,9217
+2001,All families,All families,158912.7238,728352.9543,1.0000,22210
+2001,With children,No high school diploma,19236.6106,138212.6460,0.1368,1011
+2001,With children,High school diploma,82790.7077,266350.0173,0.3343,2580
+2001,With children,High school or less,59450.2869,229141.0830,0.4711,3591
+2001,With children,Some college,125312.7774,411960.8736,0.2487,2005
+2001,With children,College degree,481831.2930,1528474.1317,0.2802,4089
+2001,With children,All families,135940.5467,638688.0440,1.0000,9685
+2004,All families,No high school diploma,35423.1239,234170.7057,0.1443,2436
+2004,All families,High school diploma,117618.5278,339326.4310,0.3060,5583
+2004,All families,High school or less,87663.6338,305620.5214,0.4503,8019
+2004,All families,Some college,136052.3088,519893.2002,0.2442,4738
+2004,All families,College degree,463595.8348,1661950.1534,0.3055,9838
+2004,All families,All families,160091.8851,772318.4219,1.0000,22595
+2004,With children,No high school diploma,21236.6786,136890.3217,0.1384,1088
+2004,With children,High school diploma,81198.0539,247018.2851,0.3155,2527
+2004,With children,High school or less,62334.3806,213449.4825,0.4539,3615
+2004,With children,Some college,128658.1616,443116.9299,0.2557,2146
+2004,With children,College degree,448807.5404,1654471.2510,0.2904,4194
+2004,With children,All families,136671.3537,690592.9519,1.0000,9955
+2007,All families,No high school diploma,51836.4617,223779.1965,0.1353,2192
+2007,All families,High school diploma,126067.5278,394304.2934,0.3286,5698
+2007,All families,High school or less,95247.5409,344574.4628,0.4639,7890
+2007,All families,Some college,152392.9333,565344.0578,0.2444,4613
+2007,All families,College degree,507715.4349,1967253.3046,0.2918,9582
+2007,All families,All families,189492.8058,871953.6978,1.0000,22085
+2007,With children,No high school diploma,37585.3499,155838.0432,0.1349,990
+2007,With children,High school diploma,75671.8378,303404.3503,0.3412,2672
+2007,With children,High school or less,64051.7005,261594.0928,0.4761,3662
+2007,With children,Some college,128776.8051,462290.0915,0.2419,1987
+2007,With children,College degree,520243.8849,1837857.0490,0.2821,4091
+2007,With children,All families,147992.3152,754741.0759,1.0000,9740
+2010,All families,No high school diploma,24363.5144,165283.4905,0.1197,3292
+2010,All families,High school diploma,84749.1573,323422.6803,0.3219,9104
+2010,All families,High school or less,62672.5250,280561.4020,0.4416,12396
+2010,All families,Some college,85197.5655,408271.2259,0.2506,7406
+2010,All families,College degree,370579.5162,1667757.6964,0.3078,12608
+2010,All families,All families,115091.4482,739501.2042,1.0000,32410
+2010,With children,No high school diploma,20940.6648,130329.3729,0.1289,1647
+2010,With children,High school diploma,61521.6105,229679.2339,0.3270,4100
+2010,With children,High school or less,45588.1710,201588.5954,0.4559,5747
+2010,With children,Some college,68143.1055,334001.6217,0.2572,3329
+2010,With children,College degree,381729.9345,1667892.3228,0.2869,5389
+2010,With children,All families,90712.9869,656283.7532,1.0000,14465
+2013,All families,No high school diploma,24167.8738,150793.2504,0.1101,2725
+2013,All families,High school diploma,72991.1576,278227.1095,0.3130,8006
+2013,All families,High school or less,55997.0332,245053.1065,0.4231,10731
+2013,All families,Some college,70205.2356,443765.0445,0.2571,7031
+2013,All families,College degree,385850.2036,1620681.0519,0.3198,12313
+2013,All families,All families,113387.0273,736069.6767,1.0000,30075
+2013,With children,No high school diploma,20755.1193,108684.4625,0.1220,1314
+2013,With children,High school diploma,37611.3406,204904.0722,0.3012,3391
+2013,With children,High school or less,30505.8464,177163.4642,0.4233,4705
+2013,With children,Some college,50940.5846,342941.4319,0.2687,3152
+2013,With children,College degree,366627.3415,1524705.6025,0.3080,5138
+2013,With children,All families,80652.4433,636777.0135,1.0000,12995
+2016,All families,No high school diploma,30801.8546,212281.1607,0.1268,3267
+2016,All families,High school diploma,90434.8929,336704.8104,0.2596,6809
+2016,All families,High school or less,60773.5978,295881.0342,0.3864,10076
+2016,All families,Some college,89139.1094,459042.4868,0.2733,7679
+2016,All families,College degree,394282.6353,2030277.5597,0.3403,13485
+2016,All families,All families,131319.5631,930676.1774,1.0000,31240
+2016,With children,No high school diploma,23621.0541,118212.3823,0.1419,1565
+2016,With children,High school diploma,50886.4994,276568.7174,0.2641,2965
+2016,With children,High school or less,35904.0023,221229.9042,0.4060,4530
+2016,With children,Some college,73076.7926,328830.4098,0.2617,3047
+2016,With children,College degree,375750.2311,1731982.5676,0.3323,5448
+2016,With children,All families,108791.8264,751478.2798,1.0000,13025
+2019,All families,No high school diploma,26361.7007,174528.0839,0.1072,2567
+2019,All families,High school diploma,93737.5391,386405.0098,0.2448,6016
+2019,All families,High school or less,74733.7722,321875.4614,0.3521,8583
+2019,All families,Some college,113261.4358,474474.6633,0.2847,7032
+2019,All families,College degree,391746.5430,1924329.1804,0.3632,13270
+2019,All families,All families,154465.8649,947407.3661,1.0000,28885
+2019,With children,No high school diploma,25372.1854,122300.7628,0.1175,1111
+2019,With children,High school diploma,77055.3272,341687.7312,0.2496,2438
+2019,With children,High school or less,61527.5497,271480.7436,0.3670,3549
+2019,With children,Some college,96414.3046,337053.4378,0.2811,2686
+2019,With children,College degree,455113.5762,2014079.1300,0.3519,5060
+2019,With children,All families,145509.4834,903126.7673,1.0000,11295
+2022,All families,No high school diploma,41641.0992,192202.2026,0.0917,2146
+2022,All families,High school diploma,117098.4918,452277.8285,0.2365,4522
+2022,All families,High school or less,88097.4634,379640.6607,0.3282,6668
+2022,All families,Some college,149974.7141,591919.3223,0.2708,4939
+2022,All families,College degree,508229.3419,2180991.6478,0.4010,11368
+2022,All families,All families,210886.7230,1159447.4008,1.0000,22975
+2022,With children,No high school diploma,43446.8236,218251.7750,0.0951,1005
+2022,With children,High school diploma,87101.5791,322386.5969,0.2339,1935
+2022,With children,High school or less,70885.0795,292272.8783,0.3290,2940
+2022,With children,Some college,149984.5635,516568.1062,0.2674,1919
+2022,With children,College degree,571232.7080,1931435.9044,0.4037,4296
+2022,With children,All families,202460.0091,1013892.1628,1.0000,9155
+2025,All families,No high school diploma,18700.0000,293877.9641,0.0848,1956
+2025,All families,High school diploma,106710.0000,470028.0254,0.2441,4409
+2025,All families,High school or less,80910.0000,424602.6318,0.3289,6365
+2025,All families,Some college,181500.0000,661350.2816,0.2604,4799
+2025,All families,College degree,505030.0000,2240464.3131,0.4107,10636
+2025,All families,All families,216100.0000,1231997.2637,1.0000,21800
+2025,With children,No high school diploma,26350.0000,223022.3694,0.1102,1054
+2025,With children,High school diploma,98890.0000,289858.3966,0.2458,1904
+2025,With children,High school or less,71790.0000,269168.3724,0.3560,2958
+2025,With children,Some college,180820.0000,540407.1614,0.2464,2025
+2025,With children,College degree,625800.0000,2291089.0472,0.3976,4222
+2025,With children,All families,213430.0000,1139995.1841,1.0000,9205
